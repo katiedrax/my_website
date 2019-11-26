@@ -1,0 +1,242 @@
+---
+title: "Katie Drax"
+subtitle: |
+  | katie.drax@bristol.ac.uk --- Twitter: [\@katiedrax](https://www.twitter.com/katiedrax) --- ORCID:[0000-0002-2838-6211](https://orcid.org/0000-0002-2838-6211)  --- Google Scholar: [Katie Drax](https://scholar.google.co.uk/citations?user=ZiN3RAgAAAAJ&hl=en) --- Github: [katiedrax](https://github.com/katiedrax) --- OSF: https://osf.io/vduky/
+  | School of Psychological Science, 12A Priory Road, University of Bristol, Bristol, BS8 1TU
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    includes:
+        in_header: preamble.tex
+        keep_tex: yes
+bibliography: drax.bib
+csl: apa.csl
+---
+
+```{r setup, include=FALSE, echo = F}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(dplyr)
+library(RefManageR)
+```
+
+
+CURRENT POSITION
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+**PhD student** 
+:   University of Bristol, UK \hfill 2018 - present
+
+    *Project 1: Mapping the Analytical PathS (MAPS) of a crowdsourced data analysis*
+    
+    *Project 2: The UK Biobank study: systematic review of the reporting quality in UK Biobank studies*
+    
+    *Project 3: Registered reports funding: a feasibility study*
+    
+PREVIOUS POSITIONS
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+**Honorary Research Associate**
+:   Transparency Solutions, Hargeisa, Somaliland \hfill  June - Sep 2018
+\hfill\break
+
+**Honorary Research Assistant**
+:   Tobacco and Alcohol Research Group, Bristol \hfill    Sep 2016 - June 2017
+
+EDUCATION
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+**BSc(Hons), Psychology with Placement Year** 
+:   University of Bath, UK \hfill 2014-2018
+
+SCHOLARSHIPS AND AWARDS
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+**UK Reproducibility Network (UKRN)**
+:    \hfill Nov 2018 - present, < £5,000 Co-Holder
+
+    UKRN grant to ReproducibiliTea journal club series
+
+**Three year PhD studentship** 
+:    \hfill 2018-2021, approx. £55,000
+
+    University of Bristol, Funded by the John Climax Benevolent Fund
+
+
+PUBLICATIONS
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+Blackwell, A., **Drax, K.**, Attwood, A., Munaf&ograve;, M., & Maynard, O. (2018). Informing drinkers: Can current UK alcohol labels be improved? *Drug and Alcohol Dependence.*
+
+UNDER REVIEW
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+**Drax, K.** & Munaf&ograve;, M. (in press). Transparency and replication in alcohol research. *The Handbook of Alcohol Use and Abuse*.
+
+Lassi, G., Mahedy, L., Oliveira, A., Dyer, M., **Drax, K.**, Dawkins, L., ...... (preprint). Exploration of the role of CHRNA5-A3-B4 genotype in smoking behaviours.
+
+Thelwall, M., Munafo, M., Mas-Bleda, A., Stuart, E., Makita, M., Weigert, V., &... (preprint). Is useful research data usually shared? An investigation of genome-wide association study summary statistics.
+
+\pagebreak
+
+TEACHING
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+Teaching assistant
+:  University of Bristol \hfill 21 May 2019
+
+    Best practice for reproducible research workshop
+
+Teaching assistant
+:   University of Bristol \hfill Oct - Dec 2018
+
+    Foundations of Psychology module
+
+PRESENTATIONS
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+Drax, K. (21 Nov 2019). MetaSciLog. Platform for Young Metaresearchers. Tilburg, The Netherlands.
+
+Arbon, R., Drax, K., Thurlby, N. (18 Sep, 2019). The MAPS project: initial results. The MAPS Showcase Event, Bristol.
+
+Drax, K. & Fraser, H. (9 July, 2019). Barriers to 'Many Analyst' projects. Society for the Improvement of Psychological Science (SIPS) annual meeting, Rotterdam.
+
+Drax, K. (3 July, 2019). Open Science - What's in it for me?. Postgraduate Conference, Bristol.
+
+ADMINISTRATION AND COMMITTEE ROLES
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+**ReproducibiliTeam**
+:   \hfill Sep 2019 - present
+
+    External communications coordinator (includes website and blog management), ReproducibiliTea journal club series committee
+
+**MetaSciLog**
+:   \hfill July 2019 - present
+
+    Co-creator and committee member, [MetaSciLog](https://twitter.com/MetaSciLog/) metascience archive (in development)
+    
+**Psychological Science: Equality, Diversity and Inclusion Committee**
+:   \hfill Feb 2019 - present
+
+    Postgraduate student representative, University of Bristol
+
+**ReproducibiliTea University of Bristol**
+:   \hfill Nov 2018 - present
+
+    Creator and organiser, University of Bristol
+    
+**JISC Horizons Group**
+:   \hfill Oct 2018 - present
+
+    Group member
+
+**The MAPS Showcase Event**
+:   \hfill 18 Sep 2019
+
+    Assistant organiser, University of Bristol
+    
+PUBLIC ENGAGEMENT
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+**University of Bristol Welcome Fair**
+:  \hfill 27 Sep 2019
+
+    Organised the Tobacco and Alcohol Research Group stall, University of Bristol
+
+
+**Bristol Fun Places Weekend**
+: \hfill 7 Oct 2019
+
+    Volunteer, Bristol
+
+OTHER OUTPUT
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+**Comparison of Registered Reports (RRs) Shiny App**
+: \hfill Launched: 4 Oct 2019
+
+    Availiable at https://katiedrax.shinyapps.io/cos_registered_reports/
+
+MAJOR COURSES ATTENDED
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+Introduction to Linear and Logistic Regression Models 
+: \hfill  24-28 June 2019
+
+    Population Health Sciences Course, University of Bristol
+
+Introduction to Systematic Reviews and Meta-analysis 
+: \hfill  7-10 May 2019
+
+    Population Health Sciences Course, University of Bristol
+
+Introduction to Stata 
+: \hfill 12-13 March 2019
+
+    Population Health Sciences Course, University of Bristol
+
+Introduction to epidemiology
+: \hfill 4-8 Jan 2019
+
+    Population Health Sciences Course, University of Bristol
+    
+SOFTWARE SKILLS
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+* R; RStudio (beginner)
+* Git (beginner)
+* Shiny (beginner)
+* STATA (beginner)
+* Qualtrics (advanced)
+* Endnote, Zotero and Mendeley (advanced)
+* Rayyan (advanced)
+* SPSS (intermediate)
+
+PROFESSIONAL AFFILIATIONS
+
+\rule[12pt]{\textwidth}{0.4pt}
+
+\vspace{-12pt}
+
+Society for the Improvement of Psychological Science (SIPS)
+
